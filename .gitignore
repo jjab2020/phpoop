@@ -1,11 +1,9 @@
-  
+ 
 composer.lock
-
 /vendor/
 
 # IDE Files
 #-------------------------
+
 /nbproject/
 .idea/*
-
-/tests/
